@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vitronics
+- 👋 Hi, I’m stephen, going brand Vitronics
 - 👀 I’m interested in coding,web design, software engineering, IoT and Technology.
 - 🌱 I’m currently learning javaScript,
 - 💞️ I’m looking to collaborate on any project
